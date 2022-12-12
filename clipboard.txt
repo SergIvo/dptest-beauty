@@ -1,0 +1,34 @@
+https://stackoverflow.com/questions/46465706/python-telegram-bot-access-to-contact-information
+
+https://github.com/python-telegram-bot/v13.x-wiki/wiki/Storing-bot%2C-user-and-chat-related-data
+
+https://github.com/python-telegram-bot/v13.x-wiki/wiki/Code-snippets#requesting-location-and-contact-from-user
+
+https://github.com/python-telegram-bot/v13.x-wiki/wiki/Code-snippets#posting-files
+
+
+For better understanding of how stage machine with callbacks works:
+https://pythontelegramrobot.readthedocs.io/en/latest/telegram.ext.conversationhandler.html
+https://docs-python.ru/packages/biblioteka-python-telegram-bot-python/sozdanie-razgovorov-conversationhandler/    
+
+
+
+
+Phonenumbers issue:
+https://stackoverflow.com/questions/68248311/how-to-change-django-phonenumber-field-error-messages
+https://django-phonenumber-field.readthedocs.io/en/latest/reference.html#id1
+https://stackoverflow.com/questions/69537025/phonenumbers-check-phone-number-validity-for-any-country
+
+
+SQL Alchemy for emergensy case:
+https://hackersandslackers.com/implement-sqlalchemy-orm/
+https://www.fullstackpython.com/sqlalchemy-model-examples.html
+
+Request payment:
+https://github.com/python-telegram-bot/python-telegram-bot/blob/v13.x/examples/paymentbot.py
+
+Docker directories issue:
+https://stackoverflow.com/questions/37789984/how-to-copy-folders-to-docker-image-from-dockerfile
+https://stackoverflow.com/questions/28599571/add-or-copy-a-folder-in-docker
+https://stackoverflow.com/questions/30215830/dockerfile-copy-keep-subdirectory-structure
+https://stackoverflow.com/questions/26504846/copy-directory-to-another-directory-using-add-command
